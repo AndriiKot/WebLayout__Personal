@@ -1,4 +1,8 @@
-﻿body, * {
+﻿body,
+header,
+main,
+footer,
+img {
   margin: 0;
 }
 header,
