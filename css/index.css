@@ -1,4 +1,8 @@
-﻿html {
+﻿:root {
+  --avatar-size: 250px;
+}
+
+html {
   background-color: white;
 }
 body,
@@ -24,7 +28,7 @@ footer {
   width: 500px;
 }
 img {
-  height: 200px;
+  height: var(--avatar-size);
   object-fit: cover;
   border-radius: 50%;
 }
