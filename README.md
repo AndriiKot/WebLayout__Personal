@@ -7,7 +7,6 @@
     <tr>
       <th height=33>CSS</th>
       <th height=33>HTML5</th>
-
     </tr>
   </thead>
   <tbody>
