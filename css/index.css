@@ -21,6 +21,12 @@ p {
   margin: 0;
 }
 
+.avatar,
+header,
+main {
+  margin-bottom: var(--gap);
+}
+
 .links {
   display: flex;
   justify-content: center;
@@ -48,6 +54,4 @@ footer {
   height: 250px;
   object-fit: cover;
   border-radius: 50%;
-
-  margin-bottom: var(--gap);
 }
