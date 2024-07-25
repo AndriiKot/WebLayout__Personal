@@ -4,6 +4,10 @@
     background-color: aqua;
     border: 3px solid blue;
 }
+
+main {
+    padding: 10px;
+}
 img {
   height: 200px;
   object-fit: cover;
