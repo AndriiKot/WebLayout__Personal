@@ -1,4 +1,13 @@
-﻿body,
+﻿html {
+  background-color: white;
+}
+
+body {
+  background-color: aqua;
+  width: 500px;
+}
+
+body,
 header,
 main,
 footer,
@@ -13,7 +22,6 @@ main,
 footer {
   width: 500px;
   text-align: center;
-  background-color: aqua;
 }
 img {
   height: 200px;
