@@ -21,6 +21,9 @@ p {
 }
 
 .links {
+  display: flex;
+  justify-content: center;
+  
   list-style: none;
   padding: 0;
 }
@@ -32,11 +35,13 @@ body {
   margin: 0 auto;
   text-align: center;
 }
+
 header,
 main,
 footer {
   width: 500px;
 }
+
 .avatar {
   height: 250px;
   object-fit: cover;
