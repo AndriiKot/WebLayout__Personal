@@ -6,10 +6,6 @@
   <thead>
     <tr>
       <th height=33>CSS</th>
-      <th height=33>PostCSS</th>
-      <th height=33>SASS</th>
-      <th height=33>Stylus</th>
-      <th height=33>Less</th>
     </tr>
   </thead>
   <tbody>
