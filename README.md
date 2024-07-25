@@ -25,22 +25,7 @@
     </tr>
   </tbody>
 </table>
-<table>
-  <thead>
-    <tr>
-      <th height=33>HTML5</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td height=100 width=100>
-        <a href=https://html.spec.whatwg.org/multipage/>
-          <img src=https://github.com/AndriiKot/___Icons__and__Links___/blob/main/icons/html.svg alt=HTML5>
-        </a>
-      </td>
-    </tr>
-  </tbody>
-</table>
+
 #### ! For the code to work correctly, use 'live server' in Visual Studio Code !
 
 ### version 1.0.0
