@@ -2,7 +2,10 @@
 header,
 main,
 footer,
-img {
+img,
+h1,
+ul,
+p {
   margin: 0;
 }
 header,
