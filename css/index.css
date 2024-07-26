@@ -24,7 +24,10 @@ p {
 
 .avatar,
 header,
-main {
+main,
+h1,
+.description,
+.links {
   margin-bottom: var(--gap);
 }
 
@@ -37,6 +40,8 @@ main {
 }
 
 body {
+  display: flex;
+  flex-direction: column;
   background-color: var(--main-color);
   width: 500px;
   min-height: calc(100vh - 2 * var(--gap));
@@ -53,6 +58,10 @@ footer {
 
 header {
   position: relative;
+}
+
+footer {
+  margin-top: auto;
 }
 
 .avatar {
