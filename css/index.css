@@ -39,7 +39,7 @@ main {
 body {
   background-color: var(--main-color);
   width: 500px;
-  min-height: 100vh;
+  min-height: calc(100vh - 2 * var(--gap));
   margin: 0 auto;
   text-align: center;
   padding: var(--gap);
