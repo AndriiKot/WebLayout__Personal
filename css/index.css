@@ -29,12 +29,13 @@ main,
 h1,
 .description,
 .links {
-  text-decoration: none;
   margin-bottom: var(--gap);
 }
 
 a {
-  color: var(--link-color)
+  text-decoration: none;
+
+  color: var(--link-color);
 }
 .links {
   display: flex;
@@ -42,7 +43,6 @@ a {
 
   list-style: none;
   padding: 0;
-
 }
 
 body {
