@@ -51,8 +51,18 @@ footer {
   width: 500px;
 }
 
+header {
+  position: relative;
+}
+
 .avatar {
   height: 250px;
   object-fit: cover;
   border-radius: 50%;
+}
+
+.language {
+  position: absolute;
+  top: 0;
+  right: 0;
 }
