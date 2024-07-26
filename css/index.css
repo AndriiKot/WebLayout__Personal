@@ -2,6 +2,7 @@
   --main-color: rgb(14, 17, 17);
   --font-color: rgb(255, 255, 255);
   --secondary-color: rgb(31, 24, 24);
+  --link-color: #ff4e45;
   --gap: 15px;
 }
 
@@ -28,15 +29,20 @@ main,
 h1,
 .description,
 .links {
+  text-decoration: none;
   margin-bottom: var(--gap);
 }
 
+a {
+  color: var(--link-color)
+}
 .links {
   display: flex;
   justify-content: center;
 
   list-style: none;
   padding: 0;
+
 }
 
 body {
