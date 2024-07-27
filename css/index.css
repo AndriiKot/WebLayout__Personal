@@ -2,7 +2,7 @@
   --main-color: rgb(14, 17, 17);
   --font-color: rgb(255, 255, 255);
   --secondary-color: rgb(31, 24, 24);
-  --link-color: #ff4e45;
+  --link-color: #6ca9ea;
   --gap: 15px;
 }
 
@@ -41,7 +41,7 @@ a {
 a:hover,
 a:focus,
 a:active {
-  opacity: 0.8;
+  opacity: 0.9;
 }
 
 body {
@@ -73,6 +73,7 @@ footer {
   height: 250px;
   object-fit: cover;
   border-radius: 50%;
+  border: 2px solid var(--link-color);
 }
 
 .language {
@@ -104,4 +105,7 @@ footer {
   background-color: var(--font-color);
   height: 50px;
   border-radius: 25px;
+  border: 2px solid var(--link-color);
+  font-size: 21px;
+  font-weight: 700;
 }
