@@ -33,7 +33,7 @@ h1,
 }
 
 a {
-  color: #6CA9EA;
+  color: #6ca9ea;
   text-decoration: none;
   transition: color 0.7s;
 }
@@ -94,4 +94,14 @@ footer {
   --link-size: 35px;
   width: var(--link-size);
   height: var(--link-size);
+}
+
+.large-button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  background-color: var(--font-color);
+  height: 50px;
+  border-radius: 25px;
 }
