@@ -58,7 +58,7 @@ body {
 header,
 main,
 footer {
-  width: 500px;
+  width: 100%;
 }
 
 header {
@@ -108,4 +108,11 @@ footer {
   border: 2px solid var(--link-color);
   font-size: 21px;
   font-weight: 700;
+}
+
+@media screen and (max-width: 530px) {
+  body {
+    width: 320px;
+    background-color: red;
+  }
 }
