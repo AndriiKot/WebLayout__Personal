@@ -127,7 +127,7 @@ body {
   }
 }
 
-@media screen and (min-width: 535px) {
+@media screen and (min-width: 576px) {
   body {
     width: 500px;
     .name {
