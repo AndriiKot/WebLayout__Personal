@@ -5,6 +5,15 @@
   --link-color: #6ca9ea;
   --gap: 15px;
 }
+html {
+  box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
 
 html {
   background-color: var(--secondary-color);
@@ -63,7 +72,7 @@ footer {
   margin-top: auto;
 }
 
-h1{
+h1 {
   font-size: 24px;
 }
 
