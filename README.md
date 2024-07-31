@@ -25,6 +25,6 @@
 
 #### ! For the code to work correctly, use 'live server' in Visual Studio Code !
 
-### version 2.0.3
+### version 3.0.0
 
-![Personal demo version 2.0.2](https://github.com/AndriiKot/Personal/blob/main/__demo__/__v2_0_3__.png)
+![Personal demo version 3.0.0](https://github.com/AndriiKot/Personal/blob/main/__demo__/__v3_0_0__.png)
