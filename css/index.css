@@ -32,11 +32,11 @@ p {
   margin: 0;
 }
 
-img,
-header,
-main,
-h1,
-p {
+.header,
+.main,
+.name,
+.description,
+.links {
   margin-bottom: var(--gap);
 }
 
