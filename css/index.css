@@ -32,12 +32,11 @@ p {
   margin: 0;
 }
 
-.avatar,
+img,
 header,
 main,
 h1,
-.description,
-.links {
+p {
   margin-bottom: var(--gap);
 }
 
