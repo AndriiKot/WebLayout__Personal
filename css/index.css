@@ -58,25 +58,25 @@ body {
   flex-direction: column;
   background-color: var(--main-color);
   width: 300px;
-  min-height: calc(100vh - 2 * var(--gap));
+  min-height: 100vh;
   margin: 0 auto;
   text-align: center;
   padding: var(--gap);
 }
 
-header {
+.header {
   position: relative;
 }
 
-footer {
+.footer {
   margin-top: auto;
 }
 
-h1 {
+.name {
   font-size: 24px;
 }
 
-h2 {
+.nickname {
   font-size: 18px;
 }
 
@@ -130,11 +130,11 @@ h2 {
 @media screen and (min-width: 535px) {
   body {
     width: 500px;
-    h1 {
+    .name {
       font-size: 32px;
     }
-    h2 {
-      font-size: 24px;
+    .nickname {
+      font-size: 28px;
     }
   }
 }
