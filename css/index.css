@@ -3,7 +3,7 @@
   --font-color: rgb(255, 255, 255);
   --secondary-color: rgb(31, 24, 24);
   --link-color: #6ca9ea;
-  --gap: 15px;
+  --gap: 16px;
 }
 html {
   box-sizing: border-box;
@@ -84,6 +84,7 @@ body {
   object-fit: cover;
   border-radius: 50%;
   border: 2px solid var(--link-color);
+  margin-bottom: 9px;
 }
 
 .language {
