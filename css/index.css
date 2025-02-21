@@ -35,6 +35,9 @@ a:active {
 }
 
 body {
+  padding: 10px;
+  min-width: calc(100vh - 10px);
+  overflow: hidden;
   display: flex;
   flex-direction: column;
   background-color: var(--main-color);
