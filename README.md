@@ -1,4 +1,4 @@
-﻿# Personal
+# Personal
 
 <table>
   <thead>
@@ -23,7 +23,7 @@
   </tbody>
 </table>
 
-#### ! For the code to work correctly, use 'live server' in Visual Studio Code !
+#### ! For the code to work correctly, use `npx http-server` ! 
 
 ### version 4.0.0
 
