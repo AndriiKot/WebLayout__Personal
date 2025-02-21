@@ -103,7 +103,8 @@ body {
 }
 
 .linkedin-icon-svg,
-.github-icon-svg {
+.github-icon-svg,
+.telegram-icon-svg {
   --link-size: 35px;
   width: var(--link-size);
   height: var(--link-size);

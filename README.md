@@ -23,8 +23,8 @@
   </tbody>
 </table>
 
-#### ! For the code to work correctly, use `npx http-server` ! 
+#### ! For the code to work correctly, use `npx http-server` !
 
-### version 4.0.0
+### version 4.0.2
 
 ![Personal demo version 3.2.0](https://github.com/AndriiKot/Personal/blob/main/__demo__/__v3_2_0__.png)
