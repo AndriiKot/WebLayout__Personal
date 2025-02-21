@@ -27,4 +27,4 @@
 
 ### version 4.0.2
 
-![Personal demo version 3.2.0](https://github.com/AndriiKot/Personal/blob/main/__demo__/__v3_2_0__.png)
+![Personal demo version 3.2.0](https://github.com/AndriiKot/Personal/blob/main/__demo__/__v4_0_2__.png)
