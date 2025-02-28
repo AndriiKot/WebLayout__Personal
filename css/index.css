@@ -61,6 +61,7 @@ body {
   margin: 0 auto;
   text-align: center;
   padding: var(--gap);
+  overflow: hidden;
 }
 
 .header {
