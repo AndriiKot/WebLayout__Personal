@@ -25,6 +25,6 @@
 
 ### version 4.0.2
 
-🖥️ Try it online
+### [🖥️ Try it online](https://andriikot.github.io/WebLayout__Personal/)
 
 [![Personal demo version 4.0.2](https://github.com/AndriiKot/Personal/blob/main/__demo__/__v4_0_2__.png)](https://andriikot.github.io/WebLayout__Personal/)
