@@ -26,3 +26,4 @@
 ### version 4.0.2
 
 ![Personal demo version 3.2.0](https://github.com/AndriiKot/Personal/blob/main/__demo__/__v4_0_2__.png)
+[![Personal demo version 4.0.2](https://github.com/AndriiKot/Personal/blob/main/__demo__/__v4_0_2__.png)](https://andriikot.github.io/WebLayout__Personal/)
